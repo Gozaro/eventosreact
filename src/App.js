@@ -6,7 +6,7 @@ import Eventos from './componentes/Eventos';
 
 class App extends Component {
 
-  token = "FSO2IOVNK23IVQUMCPWC";
+  token = "xxxxxxxxx";
   ordenar = 'date';
 
   state = {
